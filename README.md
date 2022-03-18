@@ -1,4 +1,1 @@
-- Hey, I’m @WooflesRbx
-- I’m interested in computers, modding windows, and graphic design.
-- I’m currently learning IT.
-- https://twitter.com/WooflesRbx
+
