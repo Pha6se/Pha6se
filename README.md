@@ -1,3 +1,3 @@
 - Hey, I’m Woofles! 
 - I’m interested in computers, modifying windows, gaming, and graphic design. 
-- I’m currently learning IT & HTML Web Programming.
+- I’m currently learning IT, Cybersecurity, Java, & Web Programming.
